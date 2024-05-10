@@ -22,7 +22,7 @@ I am a Business Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :telescope: My major is Accounting at University of Technology and Education HCMC
   
-- :seedling: Proficient in financial analysis, including interpreting financial data and using BI tool to generate meaningful visual representations
+- :seedling: Financial analysis, including interpreting financial data and using BI tool to visual representations
   
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-doanphanthanh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/doanphanthanh/)
 
