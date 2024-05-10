@@ -34,3 +34,4 @@ I am a Business Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="sql-server.png" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
 </div>
+
